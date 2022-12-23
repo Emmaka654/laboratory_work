@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../lab1.teilor/lab1/pom.xml" />
+        <option value="$PROJECT_DIR$/../lab2.formatedTeilor/lab2/pom.xml" />
+        <option value="$PROJECT_DIR$/../lab3.matrix/lab3/pom.xml" />
+        <option value="$PROJECT_DIR$/../lab4.string/lab4/pom.xml" />
+        <option value="$PROJECT_DIR$/../lab5.regex/lab5/pom.xml" />
+        <option value="$PROJECT_DIR$/../lab6.collections.xml.rar/lab6-7/pom.xml" />
+        <option value="$PROJECT_DIR$/../lab8.paterns/lab8/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+Houses{type='Panel', country='Russia', cost=100000.0, square=75.0}
+Houses{type='Cottage', country='USA', cost=200000.0, square=150.0}
+Houses{type='Skyscrapper', country='Dubai', cost=3.0E8, square=7.5}
